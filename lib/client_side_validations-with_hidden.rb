@@ -1,0 +1,2 @@
+module ClientSideValidationsWithHidden
+end
