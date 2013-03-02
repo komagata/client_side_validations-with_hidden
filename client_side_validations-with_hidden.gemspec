@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
   s.summary     = "ClientSideValidations with hidden elements."
   s.description = "Enable hidden element validation in ClientSideValidations."
 
-  s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.rdoc"]
+  s.files = Dir["{app,config,db,lib}/**/*"] + ["Rakefile", "README.md"]
   s.test_files = Dir["test/**/*"]
 
   s.add_dependency "rails", "~> 3.2.12"
