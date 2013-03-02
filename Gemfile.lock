@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    client_side_validations-with_hidden (0.1.0)
+    client_side_validations-with_hidden (0.1.1)
       client_side_validations (~> 3.2.2)
       rails (~> 3.2.11)
 
