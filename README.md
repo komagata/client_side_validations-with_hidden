@@ -1,6 +1,6 @@
 # ClientSideValidationsWithHidden
 
-Enable validate hidden element using [ClientSideValidations](https://github.com/bcardarella/client_side_validations)
+Enable validation to hidden element using  [ClientSideValidations](https://github.com/bcardarella/client_side_validations)
 
 ## Install
 
